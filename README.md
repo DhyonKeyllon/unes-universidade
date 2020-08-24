@@ -1,5 +1,6 @@
-Aqui ensino como fazer um site de uma unversidade fictícia com HTML puro. A aula toda estará comentada dentro do código.
+# UNES - Universidade
+Este é um site de uma universidade fictícia com html puro.
 
-Programa de linguagem usado: Visual Studio Code
+-HTML5
 
 Créditos: Professor Jamilton Damasceno - Udemy
