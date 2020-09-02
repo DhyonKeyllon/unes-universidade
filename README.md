@@ -1,5 +1,5 @@
 Aqui um pequeno site fictício de uma universidade.
 
-Programa de linguagem usado: Visual Studio Code
+-HTML5
 
 Créditos: Professor Jamilton Damasceno - Udemy
