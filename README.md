@@ -1,9 +1,9 @@
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="img/logo.png" alt="Logo">
+    <img src="ProjetoFinalHtml/imagens/logo.png" alt="Logo">
   </a>
 
-  <h3 align="center">Chalé Hotél</h3>
+  <h3 align="center">Unes Universidade</h3>
 </p>
 
 <p align="center">
